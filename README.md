@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YashwantBhosale/YashwantBhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=YashwantBhosale&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+
+<img decoding="async" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=YashwantBhosale&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+
+<img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwantBhosale&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="language" height="192px" width="500px" />
+
+</div>
