@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=YashwantBhosale&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-
-<img decoding="async" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=YashwantBhosale&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
-
-<img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwantBhosale&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="language" height="192px" width="500px" />
+![YashwantBhosale's Stats](https://github-readme-stats.vercel.app/api?username=YashwantBhosale&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![YashwantBhosale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashwantBhosale&theme=vue-dark&hide_border=true)
+![YashwantBhosale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantBhosale&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
